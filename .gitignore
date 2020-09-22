@@ -1,1 +1,5 @@
 /.idea
+*/migrations/
+/blog/migrations/
+/comment/migrations/
+/config/migrations/
